@@ -46,7 +46,7 @@
     "arch": "ia32"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "debug": "^4.1.1",
     "electron-vibrancy": "^0.1.3",
