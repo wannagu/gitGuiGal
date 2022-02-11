@@ -114,7 +114,7 @@
     "html-webpack-plugin": "^3.2.0",
     "ignore-loader": "^0.1.2",
     "inject-loader": "^4.0.1",
-    "karma": "^3.1.4",
+    "karma": "^6.3.14",
     "karma-chai": "^0.1.0",
     "karma-coverage-istanbul-reporter": "^2.0.5",
     "karma-electron": "^6.0.0",
